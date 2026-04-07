@@ -3,7 +3,7 @@ A production-style, full-stack real estate property search platform built as par
 # Author
 Rasmin Ahmed
 # Tech Stacks
-Frontend
+
 # Project Goals
 Build a Zillow-style property search platform
 Design and implement RESTful backend APIs
